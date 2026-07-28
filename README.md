@@ -15,3 +15,6 @@ I hope these resources save you time and help you build better systems.
 - [Worked Example: Family Travel Project](templates/AI-Project-Kickoff-Example-Travel.md): the kickoff template filled in for a real trip, so you can see what a finished one looks like.
 
 - More coming soon...
+---
+
+Less Time Remembering. More Time Living.
