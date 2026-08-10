@@ -14,6 +14,8 @@ I hope these resources save you time and help you build better systems.
 
 - [Worked Example: Family Travel Project](templates/AI-Project-Kickoff-Example-Travel.md): the kickoff template filled in for a real trip, so you can see what a finished one looks like.
 
+- [Kitchen Inventory Starter](templates/kitchen-inventory-starter/): track what's in your fridge, freezer, and pantry with whatever AI you already use, and keep a shopping list that actually makes sense a week later. Companion article: coming soon.
+
 - More coming soon...
 ---
 
