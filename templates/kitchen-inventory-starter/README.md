@@ -17,6 +17,7 @@ One honest note before you start: I'm not promising this works exactly the same 
 - **starter-prompt.md**: the instructions you give your AI so it knows the job and the rules.
 - **pantry-inventory-template.md**: the file that holds what's actually in your kitchen.
 - **shopping-list-template.md**: the list your AI rebuilds for you after every cook.
+- **sample-recipe-mushroom-cream-sauce.md**: a real recipe from my own collection, built from scratch with the AI instead of a fix packet.
 
 ## Setup, step by step
 
@@ -39,6 +40,8 @@ These are the ones that cost me something to figure out. Start with them on day 
 ## Where you can take it next
 
 Once the inventory and shopping list feel natural, mine grew a recipe collection and a file for my kitchen equipment, and yours can too. Start with the two files here first.
+
+One example from my own collection is in this folder too: **sample-recipe-mushroom-cream-sauce.md**. It never existed as a recipe before I cooked it. I told the AI what was in my kitchen that night and asked it to build something out of it instead of following a packet. That's what a recipe entry can look like once the system's actually running.
 
 ---
 
