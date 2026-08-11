@@ -2,7 +2,7 @@
 
 Your AI can know what's in your refrigerator. And your pantry, and your freezer. This is the starter kit for building that with whatever AI you already use.
 
-I built my own version because I could never remember what I actually had. I'd buy something I already owned, or find out mid cook that I'd used the last of something I needed. Six weeks in, mine still runs my kitchen. I wrote the whole story here, including the parts that went wrong: [BLOG LINK: add when the post is live]
+I built my own version because I could never remember what I actually had. I'd buy something I already owned, or find out mid cook that I'd used the last of something I needed. Six weeks in, mine still runs my kitchen. I wrote the whole story here, including the parts that went wrong: [My AI Knows What's in My Refrigerator](https://nigelhickey.com/my-ai-knows-whats-in-my-refrigerator/)
 
 This folder is the setup I'd hand a friend who wanted to do the same thing.
 
