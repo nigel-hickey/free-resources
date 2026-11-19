@@ -16,6 +16,8 @@ I hope these resources save you time and help you build better systems.
 
 - [Kitchen Inventory Starter](templates/kitchen-inventory-starter/): track what's in your fridge, freezer, and pantry with whatever AI you already use, and keep a shopping list that actually makes sense a week later. Companion article: coming soon.
 
+- [AI Starter Rules](templates/ai-starter-rules/AI-Starter-Rules-v1.0.md): ten plain language rules to paste at the top of any AI chat, each written after something actually went wrong. Companion newsletter issue: [Work Smarter](https://worksmarterhq.substack.com). This one is shared under CC BY-SA 4.0 (see the license file in its folder), the rest of this repository keeps its own license.
+
 - More coming soon...
 ---
 
